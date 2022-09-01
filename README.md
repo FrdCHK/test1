@@ -2,6 +2,8 @@
 test repo 1
 
 desktop edit
+merge conflict
+web edit
 
 vscode new branch
 
