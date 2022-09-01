@@ -1,7 +1,7 @@
 # test1
 test repo 1
 
-retry
+web edit
 
 vscode new branch
 
