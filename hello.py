@@ -4,4 +4,4 @@ print('vs code')
 
 
 def funcA():
-    print('func A')
+    print('func A by Zhang')
